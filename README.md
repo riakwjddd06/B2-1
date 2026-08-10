@@ -6,7 +6,8 @@
 
 
 ## 2. 목록 페이지
-<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/2a75034e-6c70-455e-a6ad-b2da0d0361cc" />
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/2419605b-3642-42e0-aa49-0102d491d0b9" />
+
 
 
 ## 3. 상세 페이지
