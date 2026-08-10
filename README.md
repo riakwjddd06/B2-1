@@ -31,5 +31,10 @@ https://share.gemini.google/5eF8HkzhfxmU
 메인 페이지에서 검색 아이콘 클릭 -> 목록 페이지로 연결 -> 목록 페이지에서 첫번째 상품 클릭 -> 상세 페이지로 연결 -> 상세 페이지에서 쇼핑몰 로고 클릭 -> 메인 페이지로 돌아옴
 
 위 순서로 구현했으며, 제미나이의 도움으로 작업 과정을 수행하였습니다.
+제미나이의 도움을 받았을 때 대화 로그입니다.
+
+https://share.gemini.google/PNOgWzmLbAH7
+
+피그마 최종본 링크입니다.
 
 https://www.figma.com/design/31xi3GHrLUxI9C56buOuX6/%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C?node-id=0-1&t=TjFECAlaWkFZiExV-1
