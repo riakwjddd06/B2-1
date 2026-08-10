@@ -38,4 +38,4 @@ https://share.gemini.google/PNOgWzmLbAH7
 
 피그마 최종본 링크입니다. 피그마 구현 영상 또한 깃허브에 업로드 했습니다.
 
-https://www.figma.com/design/31xi3GHrLUxI9C56buOuX6/%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C?node-id=0-1&t=TjFECAlaWkFZiExV-1
+https://www.figma.com/design/31xi3GHrLUxI9C56buOuX6/%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81?node-id=0-1&t=auCr6t9cBaQX4uJN-1
