@@ -10,6 +10,5 @@
 
 
 ## 3. 상세 페이지
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/33375984-3ea9-4a13-b430-d39482d16a1e" />
-
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/a1942f7c-aea3-472a-a631-2bffcd681588" />
 
